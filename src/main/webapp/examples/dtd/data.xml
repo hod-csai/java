@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE notes SYSTEM "data.dtd">
+<notes>
+    <note>
+        <to>Tove</to>
+        <from>Jani</from>
+        <heading>Reminder</heading>
+        <body>Meeting at 5 PM</body>
+    </note>
+    <note>
+        <to>Alex</to>
+        <from>Sam</from>
+        <heading>Lunch</heading>
+        <body>Lunch tomorrow at noon</body>
+    </note>
+    <note>
+        <to>Priya</to>
+        <from>Ravi</from>
+        <heading>Call</heading>
+        <body>Quick call about the report</body>
+    </note>
+</notes>

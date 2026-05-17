@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<catalog>
+  <cd>
+    <title>Empire Burlesque</title>
+    <artist>Bob Dylan</artist>
+  </cd>
+  <cd>
+    <title>Hide Your Heart</title>
+    <artist>Bonnie Tyler</artist>
+  </cd>
+  <cd>
+    <title>Greatest Hits</title>
+    <artist>Queen</artist>
+  </cd>
+  <cd>
+    <title>Back in Black</title>
+    <artist>AC/DC</artist>
+  </cd>
+</catalog>
