@@ -10,10 +10,27 @@
     <servlet-name>XmlServlet</servlet-name>
     <servlet-class>com.example.XmlServlet</servlet-class>
   </servlet>
-
   <servlet-mapping>
     <servlet-name>XmlServlet</servlet-name>
     <url-pattern>/xml-demo</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>FormServlet</servlet-name>
+    <servlet-class>com.example.FormServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FormServlet</servlet-name>
+    <url-pattern>/FormServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CookieServlet</servlet-name>
+    <servlet-class>com.example.CookieServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CookieServlet</servlet-name>
+    <url-pattern>/CookieServlet</url-pattern>
   </servlet-mapping>
 
 </web-app>
